@@ -1,4 +1,4 @@
-22208841111075491
+22215612967017513
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55713,12 +55713,40 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 GeneralKicadLibrary
-TE_1217861-1
+6_35mm_Kabelschuh
 
 
 0
 2
 2
+GeneralKicadLibrary
+CONV_P7805-2000-S
+
+
+0
+3
+3
+GeneralKicadLibrary
+MOLEX_Picoblade_7Pin_SMD_R_A
+
+
+0
+9
+9
+GeneralKicadLibrary
+MOLEX_Picoblade_8Pin_SMD_R_A
+
+
+0
+10
+10
+GeneralKicadLibrary
+PowerPAK-SO8
+
+
+0
+9
+9
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
