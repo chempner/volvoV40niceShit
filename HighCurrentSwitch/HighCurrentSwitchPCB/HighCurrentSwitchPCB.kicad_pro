@@ -243,8 +243,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "GeneralKicadLibrary"
+    ],
+    "pinned_symbol_libs": [
+      "GeneralKicadLibrary"
+    ]
   },
   "meta": {
     "filename": "HighCurrentSwitchPCB.kicad_pro",
